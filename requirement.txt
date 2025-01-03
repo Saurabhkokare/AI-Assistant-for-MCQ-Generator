@@ -1,0 +1,6 @@
+pandas
+traceback
+dotenv
+cohere
+langchain
+PyPDF2
